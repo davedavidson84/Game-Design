@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Example_3_Trigger_Events.unity
+  isLoaded: 1
+  isActive: 1
