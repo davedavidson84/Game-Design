@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Example_3_Trigger_Events.unity
+- path: Assets/Scenes/Example_7_Cameras.unity
   isLoaded: 1
   isActive: 1
