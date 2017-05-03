@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{90359DB1-76F7-EB33-A8FD-21ECADF88F75}</ProjectGuid>
+    <ProjectGuid>{2DC969B9-4019-CF38-3FB7-F1949E701D17}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -49,11 +49,15 @@
      <Compile Include="Assets\Scripts\CameraMinimap.cs" />
      <Compile Include="Assets\Scripts\CameraTriggers.cs" />
      <Compile Include="Assets\Scripts\Cameras.cs" />
+     <Compile Include="Assets\Scripts\ClickAndMove.cs" />
+     <Compile Include="Assets\Scripts\LoadScene.cs" />
      <Compile Include="Assets\Scripts\MouseClicks.cs" />
      <Compile Include="Assets\Scripts\ObjectColor.cs" />
      <Compile Include="Assets\Scripts\ObjectScaling.cs" />
+     <Compile Include="Assets\Scripts\PlayAnimationOnClick.cs" />
      <Compile Include="Assets\Scripts\PlayerMovement.cs" />
      <Compile Include="Assets\Scripts\Raycaster.cs" />
+     <Compile Include="Assets\Scripts\RaycasterMover.cs" />
      <Compile Include="Assets\Scripts\Spawner.cs" />
      <Compile Include="Assets\Scripts\TriggerEvent.cs" />
      <Compile Include="Assets\Scripts\TriggerExamples.cs" />
